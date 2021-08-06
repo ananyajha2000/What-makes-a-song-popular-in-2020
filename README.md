@@ -2,6 +2,7 @@
 Analysing how the Mental Health and Economic crisis during 2020 have influenced music listening trends and how similiar this impact was to that of the Great Recession in 2008
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Abstract
+
 Measures like lockdown and quarantine to combat COVID 19 might have led to an influx in the consumption
 of music and have consequently influenced popularity trends. This study aims to analyse and demonstrate
 which features of songs (if any) contribute to their popularity based on the current music listening trends.
