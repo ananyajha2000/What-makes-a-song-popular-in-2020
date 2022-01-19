@@ -12,3 +12,5 @@ investigates whether the global environment has an impact on the music listening
 The results show substantial similarity between the listening trends and people’s preferences of music in the
 two periods and testify the hypothesis that music preferences are, in fact, impacted significantly in times of
 crisis.
+..
+This
